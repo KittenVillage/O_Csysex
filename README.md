@@ -16,3 +16,6 @@ eurorack / teensy 3.2 DAC8565 quad 16bit CV module w/ OLED display
 
 build guide: http://ornament-and-cri.me/
 
+### Fork note:
+
+Nothing to see here, see original repo. Plans to update this repo to current O C codebase.
